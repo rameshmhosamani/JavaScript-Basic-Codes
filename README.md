@@ -1,1 +1,1 @@
-# JavaScript-Basic-Codes
+# JavaScript-Basic-programs
